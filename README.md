@@ -6,6 +6,6 @@
 - 🌱 I’m currently learning React, PHP and WordPress
 - 👯 I’m looking to collaborate on Web applications projects
 - 📫 How to reach me: ismaelbentatou@gmail.com
-
+- 🖥️ My Portfolio : https://ismailbentatou.com/
 
 
